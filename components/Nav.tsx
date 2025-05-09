@@ -38,7 +38,7 @@ export const Nav = () => {
       <div className={"ml-auto flex items-center gap-1"}>
         <Button
           onClick={() => {
-            window.open(
+            https://github.com/126shitou/empathic-voice-interface-starter(
               pkg.homepage,
               "_blank",
               "noopener noreferrer"
